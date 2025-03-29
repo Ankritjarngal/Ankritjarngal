@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=ANKRIT%20JARNGAL&animation=fadeIn&fontAlignY=36&fontSize=60&fontColor=ffffff&desc=&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=180&section=header&text=Ankrit%20Jarngal&animation=fadeIn&fontAlignY=36&fontSize=60&fontColor=ffffff" width="100%" />
 </div>
 
 <p align="center">
@@ -13,10 +13,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankritjarngal&bg_color=00000000&color=ffffff&line=00E6FE&point=FF3860&area=true&hide_border=true" width="85%" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankritjarngal&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-</div>
 
 <h2 align="center">🛠️ Technology Stack 🛠️</h2>
 
@@ -35,7 +31,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -81,36 +77,6 @@
       <br>Vercel
     </td>
   </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" />
-      <br>Socket.io
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jwt/jwt-original.svg" width="48" height="48" alt="JWT" />
-      <br>JWT
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-  </tr>
 </table>
 
 <h2 align="center">🧠 AI & ML Tools 🧠</h2>
@@ -120,23 +86,6 @@
   <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/-Vector%20Embeddings-5940BA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-NER-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Transformers-FF9364?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Gemini%20AI-8EC5FC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-NLP-32E0C4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge" />
-</div>
-
-<h2 align="center">🛣️ Web Dev Toolkit 🛣️</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Web%20Scraping-4EAA48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PDF%20Parsing-FF2E2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Socket%20Programming-010101?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Multer-FF6C37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-ZOD-3068B7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CORS-FFCB2D?style=for-the-badge" />
 </div>
 
 <br/>
