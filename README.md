@@ -41,4 +41,4 @@
 ![Compromise NLP](https://img.shields.io/badge/Compromise%20NLP-FF8C00?style=for-the-badge&logo=ai&logoColor=white)
 
 ## 📈 GitHub Stats
-![Ankrit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankritjarngal&show_icons=true&theme=radical)
+![Ankrit's GitHub Commit Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankritjarngal&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true)
