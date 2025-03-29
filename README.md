@@ -3,13 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-ankrit.vercel.app/" target="_blank">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">&nbsp;
-    <b><i>Visit My Portfolio</i></b>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankritjarngal&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
