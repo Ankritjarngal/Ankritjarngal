@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-ankrit.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%2358A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" />
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Portfolio GIF">
   </a>
 </p>
 
