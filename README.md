@@ -7,6 +7,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankritjarngal&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankritjarngal&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
