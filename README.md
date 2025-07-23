@@ -11,4 +11,4 @@
 </p>
 
 
-![3D Contribution Graph](./profile-3d-contrib/github-contribution-grid-snake.svg)
+![3D Contribution Graph](./profile-3d-contrib/profile-night-view.svgt)
